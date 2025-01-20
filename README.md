@@ -1,7 +1,7 @@
 # MyxoMonolayer
 Code used in the paper Local polar order controls mechanical stress and triggers layer formation in  Myxococcus xanthus colonies. 
 
-The codes demonstrate how the authors obtained the results reported in the paper Local polar order controls mechanical stress and triggers layer formation in Myxococcus xanthus colonies by Han et al. 
+The code demonstrates how the authors obtained the results reported in the paper Local polar order controls mechanical stress and triggers layer formation in Myxococcus xanthus colonies by Han et al. 
 - TFM: It demonstrates how we processed the data obtained with the traction force microscopy (TFM) assay. It provides traction force, director field (cell orientation), and defect location and orientation. 
 - Polarity: It demonstrates how we processed the data obtained with the polarity assay. It provides cell polarity, cell velocity, and defect tracking. 
 
@@ -32,7 +32,7 @@ Expected run time for demo on a "normal" desktop computer:
 
 
 
-In this code, we have used the codes and packages written by other researchers. We appreciate all of them for sharing their work. 
+Here, we have used the code and packages written by other researchers. We appreciate all of them for sharing their work. 
 - The folder track_ED contains the MATLAB Particle Tracking Code written by Daniel Blair and Eric Dufresne, which can be found here: https://site.physics.georgetown.edu/matlab/. 
 - The code in the folder TFM_PIV is tweaked based on the PIV code written by Ivo Peters. We use a relatively early version. The latest version can be found here: https://ivopeters.org/code/. 
 - Some functions in the code are provided by a coauthor of the paper, Katherine Copenhagen. Her GitHub page is: https://github.com/kcopenhagen. 
