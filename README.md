@@ -1,6 +1,8 @@
 # MyxoMonolayer
 Code used in the paper Local polar order controls mechanical stress and triggers layer formation in  Myxococcus xanthus colonies. 
 
+The uploaded code is incomplete. It will take some time to organize all the code and upload a functional version here. Thank you for your patience. 
+
 The code demonstrates how the authors obtained the results reported in the paper Local polar order controls mechanical stress and triggers layer formation in Myxococcus xanthus colonies by Han et al. 
 - TFM: It demonstrates how we processed the data obtained with the traction force microscopy (TFM) assay. It provides traction force, director field (cell orientation), and defect location and orientation. 
 - Polarity: It demonstrates how we processed the data obtained with the polarity assay. It provides cell polarity, cell velocity, and defect tracking. 
